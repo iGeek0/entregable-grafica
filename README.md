@@ -23,3 +23,7 @@ y construir la version de produccion
 
 
     npm run build
+
+    Liga de produccion
+
+    https://chipper-twilight-732b2b.netlify.app/
