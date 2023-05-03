@@ -26,7 +26,7 @@
 93C:\xampp\htdocs\entregable-grafica\node_modules\caniuse-lite\data\features\rest-parameters.js133275511889118496 0
 83C:\xampp\htdocs\entregable-grafica\node_modules\core-js\actual\string\trim-right.js133275511901070489 0
 79C:\xampp\htdocs\entregable-grafica\node_modules\cosmiconfig\dist\loaders.js.map133275511881068658 0
-39C:\xampp\htdocs\entregable-grafica\dist133275559719327663 1
+39C:\xampp\htdocs\entregable-grafica\dist133275563775884155 1
 70C:\xampp\htdocs\entregable-grafica\node_modules\react-refresh\babel.js133275511877735048 0
 45C:\xampp\htdocs\entregable-grafica\.gitignore133275537237121012 0
 47C:\xampp\htdocs\entregable-grafica\node_modules133275511908713875 1
@@ -41,7 +41,7 @@
 76C:\xampp\htdocs\entregable-grafica\node_modules\css-tree\cjs\lexer\trace.cjs133275511884837661 0
 87C:\xampp\htdocs\entregable-grafica\node_modules\core-js\internals\flatten-into-array.js133275511892274232 0
 86C:\xampp\htdocs\entregable-grafica\node_modules\core-js\features\symbol\description.js133275511887708107 0
-44C:\xampp\htdocs\entregable-grafica\README.md133275541454461714 0
+44C:\xampp\htdocs\entregable-grafica\README.md133275561710272601 0
 58C:\xampp\htdocs\entregable-grafica\node_modules\terser\lib133275511882939980 1
 76C:\xampp\htdocs\entregable-grafica\node_modules\css-tree\cjs\lexer\error.cjs133275511882018214 0
 55C:\xampp\htdocs\entregable-grafica\node_modules\@kurkle133275511866359487 1
@@ -107,7 +107,7 @@
 69C:\xampp\htdocs\entregable-grafica\node_modules\ramda\es\transpose.js133275511888717825 0
 82C:\xampp\htdocs\entregable-grafica\node_modules\terser\lib\compress\drop-unused.js133275511881482938 0
 75C:\xampp\htdocs\entregable-grafica\node_modules\lmdb\src\ordered-binary.cpp133275511884152271 0
-49C:\xampp\htdocs\entregable-grafica\src\index.html133275525922855211 0
+49C:\xampp\htdocs\entregable-grafica\src\index.html133275563150924171 0
 107C:\xampp\htdocs\entregable-grafica\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133275511879333515 0
 65C:\xampp\htdocs\entregable-grafica\node_modules\ramda\es\maxBy.js133275511887316645 0
 61C:\xampp\htdocs\entregable-grafica\node_modules\lmdb\write.js133275511884952430 0
@@ -10926,4 +10926,4 @@
 57C:\xampp\htdocs\entregable-grafica\dist\index.a521242b.js133275558196613666 0
 57C:\xampp\htdocs\entregable-grafica\dist\index.bcfe7bf9.js133275559719232592 0
 61C:\xampp\htdocs\entregable-grafica\dist\index.bcfe7bf9.js.map133275559719327663 0
-50C:\xampp\htdocs\entregable-grafica\dist\index.html133275559719232592 0
+50C:\xampp\htdocs\entregable-grafica\dist\index.html133275563775874174 0
